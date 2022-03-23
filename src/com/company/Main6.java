@@ -20,7 +20,7 @@ public class Main6 {
                 String line = reader.readLine();
                 while (line != null) {
                     System.out.println(lineIndex + ". " + line);
-                    // read next line
+
                     line = reader.readLine();
                     lineIndex++;
                 }
