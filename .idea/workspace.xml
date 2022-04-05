@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e5907bd-2383-4e58-b98c-bf98599853ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab_2/src/main/resources/static/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_2/src/main/resources/static/minion.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_2/src/main/resources/static/pinguin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_2/src/main/resources/static/zipFile.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_2/src/main/resources/templates/Image.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_1/Lab1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_1/Lab1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab_2/src/main/java/com/example/demo/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_2/src/main/java/com/example/demo/example.java" afterDir="false" />
-    </list>
+    <list default="true" id="2e5907bd-2383-4e58-b98c-bf98599853ff" name="Changes" comment="lab 2 in progress" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +44,14 @@
       <option name="presentableId" value="Default" />
       <updated>1648297964392</updated>
     </task>
+    <task id="LOCAL-00001" summary="lab 2 in progress">
+      <created>1649184670962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649184670962</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,5 +67,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="lab 2 in progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 2 in progress" />
   </component>
 </project>
