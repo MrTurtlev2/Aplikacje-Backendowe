@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e5907bd-2383-4e58-b98c-bf98599853ff" name="Changes" comment="lab 2 in progress" />
+    <list default="true" id="2e5907bd-2383-4e58-b98c-bf98599853ff" name="Changes" comment="ytjyt">
+      <change afterPath="$PROJECT_DIR$/Lab_3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3/src/main/java/com/example/demo/AllUsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3/src/main/java/com/example/demo/UserModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_3/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +45,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab_3" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
